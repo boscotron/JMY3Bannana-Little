@@ -29,8 +29,8 @@ Ejecutar en terminal los siguientes comandos
 
 
 ```
-$ git clone https://github.com/srinivastamada/ionic-restful-authentication.git
-$ cd ionic-restful-authentication
+$ git clone https://github.com/boscotron/JMY3Bannana-Little.git
+$ cd JMY3Bannana-Little
 $ npm install
 $ ionic serve
 
